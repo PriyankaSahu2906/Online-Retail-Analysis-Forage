@@ -1,6 +1,6 @@
 # Online-Retail-Analysis-Forage
 Project is based of an Online Retail store that wants to analyse major contributing factors to the revenue so they can strategically plan for next Year. Note: The data for this project is taken form forage Tata Data Visualisations : Empowering Business with Effective Insights virtual experience program.
-
+![Screenshot 2025-01-20 161528](https://github.com/user-attachments/assets/e972d7b2-56f6-480b-afc9-e8deb74e65e5)
 # Summary and Business Insights
 In the realm of online retail, data-driven insights serve as a guiding light for strategic planning and informed decision-making. Through a thorough analysis of the online retail data, several key findings and business insights have emerged that can profoundly influence the company's expansion strategy and revenue optimization.
 
